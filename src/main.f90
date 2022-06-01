@@ -16,7 +16,7 @@
     integer :: icount
     
 !======================================================================
-    write(*,'(a)') "---------- START Sample Solver ---------"
+    write(*,'(a)') "---------- START Sample Solver -------"
     
     ! get argument
     if(iargc() == 1) then
